@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\lenovo\Desktop\BICOCCA\3° ANNO\ingegneria del software\laboratorio\29-10-2019\esercizio3\.metadata\.plugins\org.eclipse.jdt.core
+115096871.index
